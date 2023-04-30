@@ -3,7 +3,7 @@
     "id": 1,
     "resort_name": "Cox's bazar Beach Resort",
     "category": "Luxury",
-    "location": "CoxsBazar",
+    "location": "coxsBazar",
     "description": " This luxurious resort is the perfect getaway for those seeking a relaxing vacation on the beach. The rooms are spacious and well-appointed with comfortable beds, modern amenities, and stunning sea views. Guests can indulge in the resort's many facilities, including a swimming pool, spa, restaurant, and bar. Whether you want to lounge on the beach or explore the local area, this resort has everything you need for a memorable vacation.",
     "features": [
       "Ocean View",
@@ -33,7 +33,7 @@
     "id": 2,
     "resort_name": "Beach View Resort",
     "category": "Mid-range",
-    "location": "CoxsBazar",
+    "location": "coxsBazar",
     "description": "This budget-friendly resort offers comfortable rooms with stunning views of the sea. The rooms are simple but well-equipped with air conditioning, TV, and private bathrooms. Guests can relax on the resort's beachfront and enjoy the sun, sand, and sea. With its friendly staff and laid-back atmosphere, Beach View Resort is the perfect place to unwind and soak up the beauty of Coxsbazar.",
     "features": [
       "Beachfront",
@@ -62,7 +62,7 @@
     "id": 3,
     "resort_name": "Hotel Seagull",
     "category": "Family-friendly",
-    "location": "CoxsBazar",
+    "location": "coxsBazar",
     "description": "Located in the heart of Coxsbazar, this mid-range hotel is ideal for budget-conscious travelers. The rooms are clean and comfortable, with basic amenities such as air conditioning, TV, and Wi-Fi. Guests can enjoy the hotel's restaurant, coffee shop, and rooftop terrace with panoramic views of the ocean. With its convenient location and affordable rates, Hotel Seagull is a great choice for a beach vacation.",
     "features": [
       "Kids Club",
@@ -96,7 +96,7 @@
     "id": 4,
     "resort_name": "Ocean Paradise Hotel and Resort",
     "category": "Ultra-luxury",
-    "location": "CoxsBazar",
+    "location": "coxsBazar",
     "description": "This luxury hotel boasts elegant rooms with contemporary furnishings and breathtaking sea views. Guests can indulge in the hotel's many facilities, including a swimming pool, spa, gym, and multiple restaurants. The rooms are equipped with modern amenities such as flat-screen TVs, minibars, and Wi-Fi. With its prime location and upscale amenities, Ocean Paradise Hotel and Resort is a top choice for a beach vacation in Coxsbazar.",
     "features": [
       "Private Beach",
@@ -130,7 +130,7 @@
     "id": 5,
     "resort_name": "Hillside Haven",
     "category": "Luxury",
-    "location": "Sreemangal",
+    "location": "sreemangal",
     "description": "Nestled in the lush hills of Sreemangal, this resort offers a serene retreat from the hustle and bustle of city life. The rooms are spacious and well-appointed with comfortable beds, private bathrooms, and stunning views of the surrounding tea gardens. Guests can explore the local area on foot or by bike, or simply relax and enjoy the peace and tranquility of the resort.",
     "features": [
       "Mountain View",
@@ -160,7 +160,7 @@
     "id": 6,
     "resort_name": "Sreemangal Serenity",
     "category": "Mid-range",
-    "location": "Sreemangal",
+    "location": "sreemangal",
     "description": "A cozy resort located on the outskirts of Sreemangal town, with easy access to the area's popular tea gardens. This luxurious resort is the perfect place for a golfing getaway in the hills of Sreemangal. The rooms are elegantly furnished with plush bedding, modern amenities, and stunning views of the tea gardens.Sreemangal Serenity has everything you need for a memorable vacation. ",
     "features": [
       "Garden View",
@@ -192,7 +192,7 @@
     "id": 7,
     "resort_name": "Tea Garden Terrace",
     "category": "Budget",
-    "location": "Sreemangal",
+    "location": "sreemangal",
     "description": "A budget-friendly resort located in the heart of Sreemangal's tea garden area. This high-end resort offers luxurious rooms and suites with stunning views of the surrounding hills and forests. Guests can indulge in the resort's many facilities, including a spa, gym, swimming pool, and multiple restaurants. The rooms are equipped with modern amenities such as flat-screen TVs, minibars, and Wi-Fi. Whether you're looking for a romantic getaway or a family vacation.",
     "features": [
       "Tea Garden View",
@@ -218,7 +218,7 @@
     "id": 8,
     "resort_name": "The Forest Retreat",
     "category": "Luxury",
-    "location": "Sreemangal",
+    "location": "sreemangal",
     "description": "A luxurious resort located deep in the forests of Sreemangal, offering a unique and secluded getaway experience.This eco-friendly resort offers comfortable rooms and cottages in the heart of Sreemangal's tea gardens. The rooms are equipped with basic amenities such as fans, mosquito nets, and private bathrooms. Guests can enjoy the resort's peaceful surroundings and take part in activities such as hiking, birdwatching, and tea tasting. With its focus on sustainability and nature.",
     "features": [
       "Forest View",
@@ -247,7 +247,7 @@
     "id": 9,
     "resort_name": "Sundarban Eco Resort",
     "category": "Luxury",
-    "location": "Sundarban",
+    "location": "sundarban",
     "description": "Experience nature at its best in Sundarban Eco Resort. Located amidst the lush greenery of the forest, this resort is the perfect retreat for nature lovers. Enjoy comfortable and cozy rooms, delicious local cuisine, and a range of outdoor activities like birdwatching, jungle trekking, and boat rides through the mangrove forests.",
     "features": [
       "Forest View",
@@ -281,7 +281,7 @@
     "id": 10,
     "resort_name": "Sundarban Jungle Resort",
     "category": "Mid-range",
-    "location": "Sundarban",
+    "location": "sundarban",
     "description": "Escape the hustle and bustle of city life and immerse yourself in the serene and tranquil surroundings of Sundarban Jungle Resort. Wake up to the chirping of birds and the rustling of leaves, and spend your day exploring the lush green forests and spotting exotic wildlife. End your day with a relaxing massage at the spa or a delicious meal at the on-site restaurant.",
     "features": [
       "Forest View",
@@ -310,7 +310,7 @@
     "id": 11,
     "resort_name": "Sundarban Lodge",
     "category": "Budget",
-    "location": "Sundarban",
+    "location": "sundarban",
     "description": "Get in touch with nature and experience the beauty of Sundarban at the Sundarban Nature Resort. Enjoy comfortable and spacious rooms with breathtaking views of the forest, and indulge in a range of outdoor activities like birdwatching, nature walks, and boat rides. After a long day of exploring, relax and unwind with a massage at the spa or a dip in the pool.",
     "features": [
       "Forest View",
@@ -337,7 +337,7 @@
     "id": 12,
     "resort_name": "Sundarban Eco Resort",
     "category": "Eco-friendly",
-    "location": "Sundarban",
+    "location": "sundarban",
     "description": "Nestled in the heart of the Sundarban forest, the Sundarban Forest Retreat is a true paradise for nature lovers. Surrounded by lush greenery, this resort offers comfortable rooms, delicious local cuisine, and a range of outdoor activities like jungle safaris, birdwatching, and boat rides. End your day with a relaxing massage at the spa or a refreshing dip in the pool.",
     "features": [
       "Forest View",
