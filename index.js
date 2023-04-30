@@ -23,9 +23,10 @@ app.get("/allRooms/:id" , (req,res)=>{
 
 app.get("/allRooms/:location" , (req, res)=>{
     const location = req.params.location;
-    const selectedRoom = rooms.filter(room => room.location === location);
-    res.send(selectedRoom);
+    const locatedRoom = rooms.filter(room => room.location === location);
+    res.send(locatedRoom);
 })
+
 app.listen(port,()=>{
     console.log(`This app listening at port: ${port}`);
 })
