@@ -17,14 +17,15 @@ app.get("/allRooms",(req,res)=>{
 
 app.get("/allRooms/:id" , (req,res)=>{
     const id = req.params.id;
+    console.log(id);
     const selectedRoom = rooms.filter(room => room.id == id);
     res.send(selectedRoom);
 })
 
-app.get("/allRooms/:location" , (req, res)=>{
-    const location = req.params.location;
-    console.log(location);
-    const locatedRoom = rooms.filter(room => room.location === location);
+app.get("/allRooms/:place" , (req, res)=>{
+    const place = req.params.place;
+    console.log(place);
+    const locatedRoom = rooms.filter(room => room.place === place);
     res.send(locatedRoom);
 })
 
