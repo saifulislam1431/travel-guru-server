@@ -1,0 +1,364 @@
+[
+  {
+    "id": 1,
+    "resort_name": "Seaside Suites",
+    "category": "Luxury",
+    "location": "Cox's Bazar",
+    "description": "A luxurious resort located directly on the beach with stunning ocean views.",
+    "features": [
+      "Ocean View",
+      "Balcony",
+      "Private Pool"
+    ],
+    "facilities": [
+      "Fitness Center",
+      "Spa",
+      "Restaurant",
+      "Bar"
+    ],
+    "beds": [
+      {
+        "type": "King",
+        "count": 1
+      }
+    ],
+    "bedroom": 1,
+    "baths": 1,
+    "rating": 4.5,
+    "review_numbers": 120,
+    "price": 350,
+    "imgUrl": "https://images.unsplash.com/photo-1602693680203-a01c07f9dfae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+  },
+  {
+    "id": 2,
+    "resort_name": "Beach View Resort",
+    "category": "Mid-range",
+    "location": "Cox's Bazar",
+    "description": "A cozy and comfortable resort with direct access to a quiet and secluded beach.",
+    "features": [
+      "Beachfront",
+      "Terrace",
+      "Kitchenette"
+    ],
+    "facilities": [
+      "Swimming Pool",
+      "BBQ Area",
+      "Free Wi-Fi"
+    ],
+    "beds": [
+      {
+        "type": "Queen",
+        "count": 1
+      }
+    ],
+    "bedroom": 1,
+    "baths": 1,
+    "rating": 4.0,
+    "review_numbers": 80,
+    "price": 150,
+    "imgUrl": "https://sayemanresort.com/wp-content/uploads/2019/10/Panorama-Ocean-Sutie-hm01.jpg"
+  },
+  {
+    "id": 3,
+    "resort_name": "Family Beach Resort",
+    "category": "Family-friendly",
+    "location": "Cox's Bazar",
+    "description": "A family-friendly resort with a wide range of activities and entertainment options.",
+    "features": [
+      "Kids Club",
+      "Water Park",
+      "Game Room"
+    ],
+    "facilities": [
+      "Beachfront",
+      "Spa",
+      "Restaurant",
+      "Bar"
+    ],
+    "beds": [
+      {
+        "type": "King",
+        "count": 1
+      },
+      {
+        "type": "Double",
+        "count": 2
+      }
+    ],
+    "bedroom": 2,
+    "baths": 2,
+    "rating": 4.2,
+    "review_numbers": 200,
+    "price": 500,
+    "imgUrl": "https://sayemanresort.com/wp-content/uploads/2019/10/Panorama-Ocean-Sutie-gallery-1.jpg"
+  },
+  {
+    "id": 4,
+    "resort_name": "Paradise Beach Resort",
+    "category": "Ultra-luxury",
+    "location": "Cox's Bazar",
+    "description": "An exclusive and luxurious resort that offers unparalleled luxury and service.",
+    "features": [
+      "Private Beach",
+      "Infinity Pool",
+      "Butler Service"
+    ],
+    "facilities": [
+      "Gym",
+      "Spa",
+      "Restaurant",
+      "Bar"
+    ],
+    "beds": [
+      {
+        "type": "King",
+        "count": 2
+      },
+      {
+        "type": "Twin",
+        "count": 2
+      }
+    ],
+    "bedroom": 4,
+    "baths": 4,
+    "rating": 5.0,
+    "review_numbers": 500,
+    "price": 1200,
+    "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/12/4e/2b/9f/bed-room-in-panorama.jpg"
+  },
+  {
+    "id": 5,
+    "resort_name": "Hillside Haven",
+    "category": "Luxury",
+    "location": "Sreemangal",
+    "description": "A luxurious resort nestled in the hills with beautiful views of the surrounding forests and tea gardens.",
+    "features": [
+      "Mountain View",
+      "Balcony",
+      "Private Jacuzzi"
+    ],
+    "facilities": [
+      "Fitness Center",
+      "Spa",
+      "Restaurant",
+      "Bar"
+    ],
+    "beds": [
+      {
+        "type": "King",
+        "count": 1
+      }
+    ],
+    "bedroom": 1,
+    "baths": 1,
+    "rating": 4.8,
+    "review_numbers": 85,
+    "price": 300,
+    "imgUrl" : "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aGlsbCUyMHZpZXclMjBob3RlbCUyMHJvb21zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    "id": 6,
+    "resort_name": "Sreemangal Serenity",
+    "category": "Mid-range",
+    "location": "Sreemangal",
+    "description": "A cozy resort located on the outskirts of Sreemangal town, with easy access to the area's popular tea gardens.",
+    "features": [
+      "Garden View",
+      "Balcony",
+      "Swimming Pool"
+    ],
+    "facilities": [
+      "Restaurant",
+      "Bar"
+    ],
+    "beds": [
+      {
+        "type": "Queen",
+        "count": 1
+      },
+      {
+        "type": "Twin",
+        "count": 2
+      }
+    ],
+    "bedroom": 2,
+    "baths": 1,
+    "rating": 4.2,
+    "review_numbers": 45,
+    "price": 120,
+    "imgUrl" : "https://seapearlcoxsbazar.com/images/page-gallery/superior-suite/speriorhill-room3.jpg"
+  },
+  {
+    "id": 7,
+    "resort_name": "Tea Garden Terrace",
+    "category": "Budget",
+    "location": "Sreemangal",
+    "description": "A budget-friendly resort located in the heart of Sreemangal's tea garden area.",
+    "features": [
+      "Tea Garden View",
+      "Private Terrace"
+    ],
+    "facilities": [
+      "Restaurant"
+    ],
+    "beds": [
+      {
+        "type": "Twin",
+        "count": 2
+      }
+    ],
+    "bedroom": 1,
+    "baths": 1,
+    "rating": 3.8,
+    "review_numbers": 27,
+    "price": 60,
+    "imgUrl" : "https://www.neeshorgo.com.bd/wp-content/uploads/2021/01/IMG_0451-Edit-800x570.jpg"
+  },
+  {
+    "id": 8,
+    "resort_name": "The Forest Retreat",
+    "category": "Luxury",
+    "location": "Sreemangal",
+    "description": "A luxurious resort located deep in the forests of Sreemangal, offering a unique and secluded getaway experience.",
+    "features": [
+      "Forest View",
+      "Outdoor Jacuzzi",
+      "Private Pool"
+    ],
+    "facilities": [
+      "Spa",
+      "Restaurant",
+      "Bar"
+    ],
+    "beds": [
+      {
+        "type": "King",
+        "count": 1
+      }
+    ],
+    "bedroom": 1,
+    "baths": 1,
+    "rating": 4.9,
+    "review_numbers": 102,
+    "price": 400,
+    "imgUrl" : "https://www.neeshorgo.com.bd/wp-content/uploads/2017/06/executive-suite-hthumb.jpg"
+  },
+  {
+    "id": 9,
+    "resort_name": "Sundarban Forest Resort",
+    "category": "Luxury",
+    "location": "Sundarban",
+    "description": "Experience the beauty of the Sundarban forest at this luxurious resort. Enjoy the serene surroundings and the exotic wildlife.",
+    "features": [
+      "Forest View",
+      "Balcony",
+      "Private Pool"
+    ],
+    "facilities": [
+      "Fitness Center",
+      "Spa",
+      "Restaurant",
+      "Bar"
+    ],
+    "beds": [
+      {
+        "type": "King",
+        "count": 1
+      },
+      {
+        "type": "Single",
+        "count": 2
+      }
+    ],
+    "bedroom": 2,
+    "baths": 2,
+    "rating": 4.9,
+    "review_numbers": 92,
+    "price": 450,
+    "imgUrl": "https://cdn.webhotelier.net/photos/w=1920/amathusrho-jsuifv/L891936.jpg"
+  },
+  {
+    "id": 10,
+    "resort_name": "Sundarban Retreat",
+    "category": "Mid-range",
+    "location": "Sundarban",
+    "description": "Escape to the tranquility of the Sundarban forest at this charming retreat. Relax in the comfort of your room and explore the beauty of the surrounding nature.",
+    "features": [
+      "Forest View",
+      "Balcony",
+      "Outdoor Seating"
+    ],
+    "facilities": [
+      "Restaurant",
+      "Swimming Pool",
+      "Garden"
+    ],
+    "beds": [
+      {
+        "type": "Queen",
+        "count": 1
+      }
+    ],
+    "bedroom": 1,
+    "baths": 1,
+    "rating": 4.3,
+    "review_numbers": 63,
+    "price": 200,
+    "imgUrl": "https://cdn.webhotelier.net/photos/w=1920/amathusrho-jsuifv/L891938.jpg"
+  },
+  {
+    "id": 11,
+    "resort_name": "Sundarban Lodge",
+    "category": "Budget",
+    "location": "Sundarban",
+    "description": "Discover the wonders of the Sundarban forest at this affordable lodge. Experience the local culture and enjoy the natural beauty of the area.",
+    "features": [
+      "Forest View",
+      "Outdoor Seating"
+    ],
+    "facilities": [
+      "Restaurant",
+      "Garden"
+    ],
+    "beds": [
+      {
+        "type": "Single",
+        "count": 3
+      }
+    ],
+    "bedroom": 1,
+    "baths": 1,
+    "rating": 3.8,
+    "review_numbers": 41,
+    "price": 100,
+    "imgUrl": "https://cf.bstatic.com/images/hotel/max1024x768/302/302421436.jpg"
+  },
+  {
+    "id": 12,
+    "resort_name": "Sundarban Eco Resort",
+    "category": "Eco-friendly",
+    "location": "Sundarban",
+    "description": "Stay in harmony with nature at this eco-friendly resort in the heart of the Sundarban forest. Enjoy the simple pleasures of life while reducing your carbon footprint.",
+    "features": [
+      "Forest View",
+      "Outdoor Seating",
+      "Solar Energy"
+    ],
+    "facilities": [
+      "Restaurant",
+      "Garden"
+    ],
+    "beds": [
+      {
+        "type": "Single",
+        "count": 2
+      }
+    ],
+    "bedroom": 1,
+    "baths": 1,
+    "rating": 4.1,
+    "review_numbers": 56,
+    "price": 150,
+    "imgUrl": "https://cdn.webhotelier.net/photos/w=1920/amathusrho-dlxfv/L586034.jpg"
+  }
+]
