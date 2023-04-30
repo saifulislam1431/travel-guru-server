@@ -23,6 +23,7 @@ app.get("/allRooms/:id" , (req,res)=>{
 
 app.get("/allRooms/:location" , (req, res)=>{
     const location = req.params.location;
+    console.log(location);
     const locatedRoom = rooms.filter(room => room.location === location);
     res.send(locatedRoom);
 })
