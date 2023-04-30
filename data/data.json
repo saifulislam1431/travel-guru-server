@@ -3,7 +3,7 @@
     "id": 1,
     "resort_name": "Cox's bazar Beach Resort",
     "category": "Luxury",
-    "location": "Coxs-Bazar",
+    "location": "CoxsBazar",
     "description": " This luxurious resort is the perfect getaway for those seeking a relaxing vacation on the beach. The rooms are spacious and well-appointed with comfortable beds, modern amenities, and stunning sea views. Guests can indulge in the resort's many facilities, including a swimming pool, spa, restaurant, and bar. Whether you want to lounge on the beach or explore the local area, this resort has everything you need for a memorable vacation.",
     "features": [
       "Ocean View",
@@ -33,7 +33,7 @@
     "id": 2,
     "resort_name": "Beach View Resort",
     "category": "Mid-range",
-    "location": "Cox's Bazar",
+    "location": "CoxsBazar",
     "description": "This budget-friendly resort offers comfortable rooms with stunning views of the sea. The rooms are simple but well-equipped with air conditioning, TV, and private bathrooms. Guests can relax on the resort's beachfront and enjoy the sun, sand, and sea. With its friendly staff and laid-back atmosphere, Beach View Resort is the perfect place to unwind and soak up the beauty of Coxsbazar.",
     "features": [
       "Beachfront",
@@ -62,7 +62,7 @@
     "id": 3,
     "resort_name": "Hotel Seagull",
     "category": "Family-friendly",
-    "location": "Cox's Bazar",
+    "location": "CoxsBazar",
     "description": "Located in the heart of Coxsbazar, this mid-range hotel is ideal for budget-conscious travelers. The rooms are clean and comfortable, with basic amenities such as air conditioning, TV, and Wi-Fi. Guests can enjoy the hotel's restaurant, coffee shop, and rooftop terrace with panoramic views of the ocean. With its convenient location and affordable rates, Hotel Seagull is a great choice for a beach vacation.",
     "features": [
       "Kids Club",
@@ -96,7 +96,7 @@
     "id": 4,
     "resort_name": "Ocean Paradise Hotel and Resort",
     "category": "Ultra-luxury",
-    "location": "Cox's Bazar",
+    "location": "CoxsBazar",
     "description": "This luxury hotel boasts elegant rooms with contemporary furnishings and breathtaking sea views. Guests can indulge in the hotel's many facilities, including a swimming pool, spa, gym, and multiple restaurants. The rooms are equipped with modern amenities such as flat-screen TVs, minibars, and Wi-Fi. With its prime location and upscale amenities, Ocean Paradise Hotel and Resort is a top choice for a beach vacation in Coxsbazar.",
     "features": [
       "Private Beach",
